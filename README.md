@@ -4,4 +4,4 @@ This application is used to track and create workouts. You have the option of re
 ## Link
 https://damp-tundra-31975.herokuapp.com/
 ## Screenshot
-<img src="ftss.png" width="1500">
+<img src="ftss.png" width="1000">
